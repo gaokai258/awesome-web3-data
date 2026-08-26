@@ -159,6 +159,7 @@ Web3 data resources, tools, and APIs for blockchain developers, researchers, and
 - [Helius](https://www.helius.dev/) - Solana RPC & API platform providing comprehensive infrastructure, NFT APIs and transaction APIs.
 - [Infura](https://infura.io/) - ETH and IPFS APIs and developer tools for scalable dApp infrastructure.
 - [Lava Network](https://gateway.lavanet.xyz/chains) - Decentralized RPC provider network supporting various blockchains.
+- [OnFinality](https://onfinality.io/) - Blockchain infrastructure platform providing reliable multichain RPC APIs, dedicated nodes, indexing services, staking and validator infrastructure, and network prototyping tools across 130+ blockchain networks.
 - [QuickNode](https://www.quicknode.com/) - Multi-chain node infrastructure for Web3 developers.
 - [Skip Protocol](https://docs.skip.build/connect/developers/providers) - RPC provider offering access to various blockchain networks.
 - [Triton One](https://triton.one/) - High-performance RPC solutions for Solana, Sui, and other blockchains with dedicated infrastructure.
